@@ -3,6 +3,6 @@
 !/.gitignore.d/tmux
 !/.README.d
 !/.README.d/tmux.md
-!/.tmux.conf
-!/.tmux
-!/.tmux/themes
+!/.config/
+!/.config/tmux/
+!/.config/tmux/tmux.conf
